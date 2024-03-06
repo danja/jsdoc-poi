@@ -1,6 +1,6 @@
 # jsdoc-poi
 
-A custom [jsdoc](https://jsdoc.app/) template, fork of [docdash](https://github.com/clenemt/docdash).
+A custom [JSDoc](https://jsdoc.app/) template, fork of [docdash](https://github.com/clenemt/docdash).
 
 **Use that instead.**
 
